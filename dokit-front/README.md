@@ -1,7 +1,14 @@
+``` bash
 # dokit-front
 
+# 显示当前的镜像网址
+# npm get registry  
+
+# 使用淘宝的镜像网址
+# npm config set registry http://registry.npm.taobao.org 
+
 #### Build Setup
-``` bash
+
 # 安装依赖
 npm install
 or
